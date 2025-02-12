@@ -5,5 +5,6 @@ resource "aws_instance" "web" {
     tags = {
         Name = "from_tf"  
     }
-}
+
+} 
 
